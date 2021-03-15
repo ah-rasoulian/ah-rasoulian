@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ah-rasoulian
 - 👀 I’m interested in Medical Image Analysis, Bioinformatics, Machine Learning, Computer Vision, Datamining.
-- 🌱 I’m currently learning "Data Science in Stratified Healthcare and Precision Medicine" which is course in coursera including medical image analysis methods.
+- 🌱 I’m currently learning "Data Science in Stratified Healthcare and Precision Medicine" which is a course in coursera including medical image analysis methods. I'm also proceeding my final semester of computer science at Amirkabir University of Technology, Iran.
 - 📫 How to reach me : ah.rasoulian@gmail.com
 
 <!---
