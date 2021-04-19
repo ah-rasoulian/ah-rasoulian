@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirhossein.
-- 👀 I’m interested in Medical Image Analysis, Bioinformatics, Machine Learning, Computer Vision and Datamining.
-- 🌱 I’m a last year computer engineering undergradute student at Amirkabir University of Technology, Iran. I'm currently learning "Data Science in Stratified Healthcare and Precision Medicine" which is a course in coursera including medical image analysis methods, etc.
+- 👀 I’m interested in Medical Image Analysis, Machine Learning, Computer Vision, Image Procrssing ,and Datamining.
+- 🌱 I’m a last year computer engineering undergraduate student at Amirkabir University of Technology, Iran.
 - 📫 How to reach me : ah.rasoulian@gmail.com
 
 <!---
