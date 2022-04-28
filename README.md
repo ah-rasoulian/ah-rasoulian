@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirhossein.
 - 👀 I’m interested in Medical Image Analysis, Machine Learning, Computer Vision, Image Procrssing ,and Datamining.
-- 🌱 I’m a last year computer engineering undergraduate student at Amirkabir University of Technology, Iran.
+- 🌱 I'm graduate student in Computer Science at Concordia University.
 - 📫 How to reach me : ah.rasoulian@gmail.com
 
 <!---
